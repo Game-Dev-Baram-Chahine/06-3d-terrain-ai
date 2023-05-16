@@ -9,7 +9,7 @@ A project with step-by-step scenes illustrating how to construct a 3D game, incl
 
 Text explanations are available
 [here](https://github.com/gamedev-at-ariel/gamedev-5782) in folder 08.
-
+[Play on itch.io](https://gamedevbc.itch.io/06-3d-terrain-ai-public)
 ## Updates:
 
 1. Movement Enhancement
@@ -23,6 +23,15 @@ Text explanations are available
 3. NPC Interaction
 
    - Engage in meaningful conversations with non-playable characters (NPCs) within the game world. When you are close to an NPC, simply press the 'E' key to initiate a dialogue. Discover fascinating stories, obtain valuable information, and unlock hidden quests as you interact with the diverse cast of characters.
+## Scripts
+
+[CharacterKeyboardMover](https://github.com/Game-Dev-Baram-Chahine/06-3d-terrain-ai/blob/main/Assets/Scripts/1-player/CharacterKeyboardMover.cs)
+
+
+[Character Message](https://github.com/Game-Dev-Baram-Chahine/06-3d-terrain-ai/blob/main/Assets/Scripts/1-player/CharacteMessage.cs)
+
+
+[SuperPower]([https://github.com/Game-Dev-Baram-Chahine/bereshit-spaceship/blob/main/Assets/Scripts/StartMenu.cs](https://github.com/Game-Dev-Baram-Chahine/06-3d-terrain-ai/blob/main/Assets/Scripts/1-player/SuperPower.cs))
 
 #TODO
 Scripts:
