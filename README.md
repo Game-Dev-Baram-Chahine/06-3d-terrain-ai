@@ -9,7 +9,7 @@ A project with step-by-step scenes illustrating how to construct a 3D game, incl
 
 Text explanations are available
 [here](https://github.com/gamedev-at-ariel/gamedev-5782) in folder 08.
-
+[Play on itch.io](https://gamedevbc.itch.io/06-3d-terrain-ai-public)
 ## Updates:
 
 1. Movement Enhancement
