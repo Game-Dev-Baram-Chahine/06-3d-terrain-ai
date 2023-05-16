@@ -24,6 +24,13 @@ Text explanations are available
 
    - Engage in meaningful conversations with non-playable characters (NPCs) within the game world. When you are close to an NPC, simply press the 'E' key to initiate a dialogue. Discover fascinating stories, obtain valuable information, and unlock hidden quests as you interact with the diverse cast of characters.
 
+#TODO
+Scripts:
+* [BFS](https://github.com/Game-Dev-Baram-Chahine/05-tilemap-pathfinding/blob/37ffb6019b90f1b16878c504873050c9ff1d92bf/Assets/Scripts/0-bfs/BFS.cs#LL55C23-L55C41)
+* [Tilemap Cave Generator](https://github.com/Game-Dev-Baram-Chahine/05-tilemap-pathfinding/blob/main/Assets/Scripts/4-generation/TilemapCaveGenerator.cs)
+* [Scene Selector](https://github.com/Game-Dev-Baram-Chahine/05-tilemap-pathfinding/blob/main/Assets/Scripts/5-gameMan/SceneSelector.cs)
+* [Enemy Controller](https://github.com/Game-Dev-Baram-Chahine/05-tilemap-pathfinding/blob/main/Assets/Scripts/3-enemies/EnemyController3.cs)
+
 ## Cloning
 
 To clone the project, you may need to install git lfs first:
