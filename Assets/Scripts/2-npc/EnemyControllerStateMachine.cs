@@ -1,4 +1,4 @@
-using UnityEditorInternal;
+// using UnityEditorInternal;
 using UnityEngine;
 
 /**
@@ -17,11 +17,13 @@ public class EnemyControllerStateMachine : StateMachine
     private Patroller patroller;
     private Rotator rotator;
 
-    private float DistanceToTarget() {
+    private float DistanceToTarget()
+    {
         return Vector3.Distance(transform.position, chaser.TargetObjectPosition());
     }
 
-    private void Awake() {
+    private void Awake()
+    {
         chaser = GetComponent<Chaser>();
         patroller = GetComponent<Patroller>();
         rotator = GetComponent<Rotator>();
@@ -37,7 +39,8 @@ public class EnemyControllerStateMachine : StateMachine
         ;
     }
 
-    private void OnDrawGizmosSelected() {
+    private void OnDrawGizmosSelected()
+    {
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(transform.position, radiusToWatch);
     }
